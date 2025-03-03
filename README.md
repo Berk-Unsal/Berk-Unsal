@@ -9,15 +9,15 @@ Hi, I’m Berk Ünsal
 -     English
 -     Turkish
 - How to reach me:
-
-- Instagram :
--     bwrkvibritannia
-- Discord :
--     berkougan
-- Gmail :
--     berkunsalyedek@gmail.com
-- Alternative Mail :
--     230201045@ostimteknik.edu.tr
+- 
+  - Instagram :
+  -       unsaalberk
+  - Discord :
+  -     berkougan
+  - Gmail :
+  -     berkunsalyedek@gmail.com
+  - Alternative Mail :
+  -     230201045@ostimteknik.edu.tr
 
 <!---
 Berk-Unsal/Berk-Unsal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
