@@ -1,10 +1,6 @@
-Hi, I’m Berk Ünsal
+Hi, I’m Kamil Berk Ünsal
 - My major is Computer Engineering.
 - I'm currently studying at Ostim Technical University at Ankara / Turkiye
-- Already learned or feeling confident working with:
--     C / C++
--     Python
--     JavaScript
 - I can speak:
 -     English
 -     Turkish
@@ -12,8 +8,6 @@ Hi, I’m Berk Ünsal
 - 
   - Instagram :
   -       unsaalberk
-  - Discord :
-  -     berkougan
   - Gmail :
   -     berkunsalyedek@gmail.com
   - Alternative Mail :
