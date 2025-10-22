@@ -1,4 +1,5 @@
-Hi, I’m Kamil Berk Ünsal
+Hi, I’m Kamil Berk Ünsal.
+
 I like what I do and I work hard to improve myself.
 
 How can you reach out to me?:
