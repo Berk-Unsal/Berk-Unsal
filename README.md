@@ -22,17 +22,11 @@ I like what I do and I work hard to improve myself.
 </p>
 <br><br><br>
 
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=Berk-Unsal&theme=dracula" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Berk-Unsal&theme=dracula" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Berk-Unsal.Berk-Unsal" alt="visitors" />
-</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berk-Unsal&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
