@@ -42,18 +42,7 @@ I am a Computer Engineering student at **OSTIM Technical University** with a pas
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Berk-Unsal&show_icons=true&theme=dracula&hide_border=true" alt="Berk's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berk-Unsal&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Berk-Unsal&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
+***Make the world a better place.***
 
 ---
 
