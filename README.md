@@ -38,7 +38,7 @@ I am a Computer Engineering student at **OSTIM Technical University** with a pas
 
 ---
 
-***Also check out my blogs page: <a href="https://berk-unsal.github.io/my-blogs-page/">.***
+***Also check out my blogs page: https://berk-unsal.github.io/my-blogs-page/.***
 
 ---
 
