@@ -4,10 +4,6 @@
 
 I am a Computer Engineering student at **OSTIM Technical University** with a passion for building resilient, scalable infrastructure. My journey is focused on mastering **Cloud Native** technologies, automating workflows, and solving complex system problems.
 
-- 🔭 I’m currently working on **High-availability Microservices on Kubernetes**.
-- 🌱 I’m currently preparing for the **Certified Kubernetes Administrator (CKA)** exam.
-- 💼 I have experience with **OpenStack**, **Docker**, and **Python Backend Development**.
-- 🎓 I previously studied at **Latvia University of Life Sciences and Technologies** (Erasmus+).
 
 ---
 
@@ -42,7 +38,7 @@ I am a Computer Engineering student at **OSTIM Technical University** with a pas
 
 ---
 
-***Make the world a better place.***
+***Also check out my blogs page: <a href="https://berk-unsal.github.io/my-blogs-page/">.***
 
 ---
 
