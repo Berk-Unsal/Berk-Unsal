@@ -8,7 +8,7 @@ Linkedin = https://www.linkedin.com/in/berkunsaltr/
 
 Gmail = berkunsalyedek@gmail.com
 
-A little more about me...
+*A little more about me...*
 ```javascript
 const about = {
   code: [Python, CPP , Go, Rust, NodeJS],
@@ -18,3 +18,6 @@ const about = {
   interests: ["genai", "reinforcement learning"]
 }
 ```
+
+Also check out my blogs page - https://berk-unsal.github.io/my-blogs-page/
+
