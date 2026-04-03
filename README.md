@@ -1,9 +1,9 @@
 Hello, I'm Berk!:) 
 - - - - - - - - - - - - - - - - - - - - - - - -
 
-Studying Computer Engineering @ Ostim Technical University
+Studying Computer Engineering @ Ostim Technical University 🇹🇷
 
-Completed Erasmus @ Latvia University of Life Sciences and Technologies 
+Completed Erasmus @ Latvia University of Life Sciences and Technologies 🇱🇻
 
 Linkedin = https://www.linkedin.com/in/berkunsaltr/
 
