@@ -1,25 +1,32 @@
-Hello, I'm Berk!:) 
-- - - - - - - - - - - - - - - - - - - - - - - -
+Hello, I'm Berk! 
 
-Studying Computer Engineering @ Ostim Technical University 🇹🇷
+- - - - - -
 
-Completed Erasmus @ Latvia University of Life Sciences and Technologies 🇱🇻
+🎓 Education & Experience
 
-Linkedin = https://www.linkedin.com/in/berkunsaltr/
+- - - - - -
 
-Gmail = berkunsalyedek@gmail.com
-- - - - - - - - - - - - - - - - - - - - - - - -
+Computer Engineering @ Ostim Technical University 🇹🇷
 
-*A little more about me...*
-```javascript
-const about = {
-  code: [Python, CPP , Go, Rust, NodeJS],
-  frameworks: [Django, React, React Native, Vue],
-  infrastructure: [AWS, GCP, Docker, Kubernetes, Nginx, Terraform],
-  architecture: ["microservices", "service-mesh", "system design"],
-  interests: ["genai", "reinforcement learning"]
-}
-```
+Erasmus+ Alumnus @ Latvia University of Life Sciences and Technologies 🇱🇻
 
-Also check out my blogs page - https://berk-unsal.github.io/my-blogs-page/
+🔗 Connect with me
 
+- - - - - - 
+
+[LinkedIn](https://www.linkedin.com/in/berkunsaltr/) | [Gmail](berkunsalyedek@gmail.com)
+
+Portfolio & Blog: https://berk-unsal.github.io/portfolio-w[ebsite
+
+Technical Stack
+
+- - - - - - 
+
+```JavaScript
+const berk = {
+  languages:      ["Go", "Rust", "Python", "C++", "NodeJS"],
+  frameworks:     ["React", "Vue", "Django", "React Native"],
+  infrastructure: ["Kubernetes (CKA)", "Docker", "Terraform", "AWS", "GCP"],
+  focus:          ["Microservices", "Cloud-Native", "Networking", "System Design"],
+  current_labs:   ["GenAI", "5G Core", "Reinforcement Learning"]
+};
