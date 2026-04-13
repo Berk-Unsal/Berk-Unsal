@@ -14,7 +14,9 @@ Erasmus+ Alumnus @ Latvia University of Life Sciences and Technologies 🇱🇻
 
 - - - - - - 
 
-[LinkedIn](https://www.linkedin.com/in/berkunsaltr/) | [Gmail](berkunsalyedek@gmail.com)
+LinkedIn : https://www.linkedin.com/in/berkunsaltr/ 
+
+Gmail : berkunsalyedek@gmail.com
 
 Portfolio & Blog: https://berk-unsal.github.io/portfolio-w[ebsite
 
