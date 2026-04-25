@@ -18,7 +18,7 @@ LinkedIn : https://www.linkedin.com/in/berkunsaltr/
 
 Gmail : berkunsalyedek@gmail.com
 
-Portfolio & Blog: https://berk-unsal.github.io/portfolio-w[ebsite
+Portfolio & Blog: https://berk-unsal.github.io/portfolio-website
 
 Technical Stack
 
