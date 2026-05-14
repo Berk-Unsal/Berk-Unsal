@@ -1,28 +1,25 @@
-Hello, I'm Berk! 
-
-- - - - - -
+### Hello, I'm Berk! 
 
 🎓 Education & Experience
-
-- - - - - -
 
 Computer Engineering @ Ostim Technical University 🇹🇷
 
 Erasmus+ Alumnus @ Latvia University of Life Sciences and Technologies 🇱🇻
 
-🔗 Connect with me
+- - -
 
-- - - - - - 
+🔗 Connect with me
 
 LinkedIn : https://www.linkedin.com/in/berkunsaltr/ 
 
 Gmail : berkunsalyedek@gmail.com
 
-Portfolio & Blog: https://berk-unsal.github.io/portfolio-website
+Portfolio: berkunsal.com
+
+- - -
 
 Technical Stack
 
-- - - - - - 
 
 ```JavaScript
 const berk = {
