@@ -14,7 +14,7 @@ LinkedIn : https://www.linkedin.com/in/berkunsaltr/
 
 Gmail : berkunsalyedek@gmail.com
 
-Portfolio: berkunsal.com
+Portfolio: www.berkunsal.com
 
 - - -
 
