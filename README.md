@@ -1,5 +1,9 @@
 ### Hello, I'm Berk! 
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/0096e78f-376b-49bd-a0bd-ded8c6432b71/thumbnail" >
+</p>
+
 🎓 Education & Experience
 
 Computer Engineering @ Ostim Technical University 🇹🇷
