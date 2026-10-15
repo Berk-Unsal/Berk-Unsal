@@ -13,10 +13,8 @@
 - - -
 🔗 Connect with me
 
-LinkedIn : https://www.linkedin.com/in/berkunsaltr/ 
-
-Gmail : berkunsalyedek@gmail.com
-
-Portfolio: www.berkunsal.com
+- LinkedIn : https://www.linkedin.com/in/berkunsaltr/
+- Gmail : berkunsalyedek@gmail.com 
+- Portfolio: www.berkunsal.com 
 
 - - -
